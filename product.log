@@ -1,0 +1,51 @@
+INFO	2021-07-30 10:15:47,679	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 10:17:30,333	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 10:23:05,337	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 10:23:43,370	38033	Banking App	[main]	Welcome To Customer Details Page
+INFO	2021-07-30 10:23:48,795	43458	Banking App	[main]	Get Customer Details By Customer ID
+INFO	2021-07-30 10:23:55,874	50537	Banking App	[main]	Approving User Account
+INFO	2021-07-30 10:28:53,945	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 10:29:27,234	33289	Banking App	[main]	Welcome...! To the Registration Page
+INFO	2021-07-30 14:54:24,952	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 14:55:00,397	35445	Banking App	[main]	Welcome...! To the Registration Page
+INFO	2021-07-30 14:59:44,787	319835	Banking App	[main]	Welcome...! To the Login Page
+INFO	2021-07-30 14:59:58,124	333172	Banking App	[main]	Check Account Balance
+INFO	2021-07-30 15:00:04,356	339404	Banking App	[main]	Welcome...! To WithDraw Amount
+INFO	2021-07-30 15:00:10,814	345862	Banking App	[main]	Welcome...! To Deposit Amount
+INFO	2021-07-30 15:00:26,256	361304	Banking App	[main]	Check Account Balance
+INFO	2021-07-30 15:00:30,907	365955	Banking App	[main]	Welcome...! To Deposit Amount To Another Account
+INFO	2021-07-30 15:01:32,509	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:02:20,415	47906	Banking App	[main]	Welcome To Customer Details Page
+INFO	2021-07-30 15:02:26,137	53628	Banking App	[main]	Get Customer Details By Customer ID
+INFO	2021-07-30 15:02:31,909	59400	Banking App	[main]	Approving User Account
+INFO	2021-07-30 15:10:12,405	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:11:03,399	50994	Banking App	[main]	Welcome...! To the Registration Page
+INFO	2021-07-30 15:11:36,255	83850	Banking App	[main]	Welcome...! To the Login Page
+INFO	2021-07-30 15:11:52,173	99768	Banking App	[main]	Check Account Balance
+INFO	2021-07-30 15:11:58,712	106307	Banking App	[main]	Welcome...! To WithDraw Amount
+INFO	2021-07-30 15:12:05,898	113493	Banking App	[main]	Welcome...! To Deposit Amount
+INFO	2021-07-30 15:12:14,667	122262	Banking App	[main]	Welcome...! To Deposit Amount To Another Account
+INFO	2021-07-30 15:12:28,573	136168	Banking App	[main]	Thanks for using the App
+INFO	2021-07-30 15:13:14,294	6	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:14:02,488	48200	Banking App	[main]	Thanks for using the App
+INFO	2021-07-30 15:14:14,616	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:14:53,250	38634	Banking App	[main]	Welcome...! To the Login Page
+INFO	2021-07-30 15:15:03,801	49185	Banking App	[main]	Welcome...! To WithDraw Amount
+INFO	2021-07-30 15:15:16,797	62181	Banking App	[main]	Check Account Balance
+INFO	2021-07-30 15:15:22,958	68342	Banking App	[main]	Welcome...! To WithDraw Amount
+INFO	2021-07-30 15:44:44,395	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:45:31,997	47602	Banking App	[main]	Welcome...! To the Registration Page
+INFO	2021-07-30 15:46:02,294	77899	Banking App	[main]	Thanks for using the App
+INFO	2021-07-30 15:46:11,704	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:46:27,896	16192	Banking App	[main]	Approving User Account
+INFO	2021-07-30 15:46:54,316	42612	Banking App	[main]	Approving User Account
+INFO	2021-07-30 15:47:11,675	59971	Banking App	[main]	Welcome To Customer Details Page
+INFO	2021-07-30 15:47:45,996	94292	Banking App	[main]	Rejecting User Account
+INFO	2021-07-30 15:47:49,756	98052	Banking App	[main]	Thanks for using the App
+INFO	2021-07-30 15:48:11,265	1	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:48:29,767	0	Banking App	[main]	 Account User App Started 
+INFO	2021-07-30 15:48:35,021	5254	Banking App	[main]	Welcome...! To the Login Page
+INFO	2021-07-30 15:48:45,128	15361	Banking App	[main]	Invalid User name/password
+INFO	2021-07-30 15:49:10,118	40351	Banking App	[main]	Welcome...! To the Login Page
+INFO	2021-07-30 15:49:19,907	50140	Banking App	[main]	Check Account Balance
+INFO	2021-07-30 15:49:25,901	56134	Banking App	[main]	Welcome...! To WithDraw Amount
